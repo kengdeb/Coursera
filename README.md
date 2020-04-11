@@ -1,2 +1,2 @@
 # Coursera
-This is for google coursera Python with google
+This is for google coursera Python introduction
